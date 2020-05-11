@@ -1,3 +1,5 @@
+# Online viewer
+- [CNN-LSTM.ipynb](https://nbviewer.jupyter.org/github/hjcian/CNN-LSTM-phishing-detection/blob/master/CNN-LSTM.ipynb)
 # 參考資料
 - CNN-LSTM Keras 架構參考自[Keras » Examples » Sentiment classification CNN-LSTM](https://keras.io/examples/imdb_cnn_lstm/)
 - 參數參考自[Phishing website detection based on multidimensional features driven by deep learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8610190)
